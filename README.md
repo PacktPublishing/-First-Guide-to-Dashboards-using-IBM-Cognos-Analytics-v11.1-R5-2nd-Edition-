@@ -1,7 +1,11 @@
 # First Guide to Dashboards using IBM Cognos Analytics v11.1 R5 - Second Edition [Video]
 This is the code repository for [First Guide to Dashboards using IBM Cognos Analytics v11.1 R5 - Second Edition](https://www.packtpub.com/data/first-guide-to-dashboards-using-ibm-cognos-analytics-v11-1-r5-second-edition-video). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Combine a variety of data to gain meaningful insights, and visualize information using stunning dashboards.
+Cognos Analytics v11.1 R5 is the latest version of IBM Cognos Analytics. Its cloud version is now within the reach of individuals and small enterprises. Cognos Analytics is popular with big organizations, such as banks and pharmaceutical companies, as their enterprise tool for reporting and analytics.
+
+Since the launch of Cognos Analytics v11, IBM has added several important new features, this course aims to covers all the latest features added to v11.1 R5. It focuses on the Dashboard Tool, and is suitable for end-users (who are simply consumers of data and need to analyze it and create dashboards for consumption) to IT developers who deliver high-quality reporting solutions.
+
+Cognos Analytics v11.1 R5 is a next-generation, sleek, unified tool that provides end-users, power-users, and IT professional with a fast, intent-driven dashboard and a report-authoring interface on top of the strong foundation that IBM Cognos has supplied over decades
 	
 
 <H2>What You Will Learn</H2>
